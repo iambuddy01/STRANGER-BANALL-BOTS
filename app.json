@@ -20,37 +20,37 @@
          }, 
          "BOT_TOKEN4": { 
              "description": "", 
-             "value": "6912117236:AAFwzjk4DNAgp4aVziky5r9D14ySDObRKaY", 
+             "value": "8768812354:AAGz1nK3YdsLb9w2BCH_OLoDsjdgMjbnhpQ", 
              "required": true
          }, 
          "BOT_TOKEN5": { 
              "description": "", 
-             "value": "6858481238:AAEL4raGFUKkqTTo0suRVFS6FaSj0SNoQ3M", 
+             "value": "8663511437:AAENrw79WWcbhSWszjTFciNZo1rDqvyr4kE", 
              "required": true 
          }, 
          "BOT_TOKEN6": { 
              "description": "", 
-             "value": "6427057993:AAFIinAVSgyAlR2SOdg2WnckKJL_8NgAVTc", 
+             "value": "8358531257:AAGyDTU09srLN0QRVm6zNFA0Px1mjnjTRHo", 
              "required": true 
          }, 
          "BOT_TOKEN7": { 
              "description": "", 
-             "value": "6847178053:AAFGRX4W6-65ZNoLqAAHSrgbqYcZw0j3NSQ", 
+             "value": "8759815095:AAHi-bQrjBZMRGhC0Q1T7TyI6TS3v5sgwkE", 
              "required": true 
          }, 
          "BOT_TOKEN8": { 
              "description": "", 
-             "value": "6701119679:AAEeH6ETqjH8puCfqwhki3QKzBc7Uq5JoE8", 
+             "value": "8699763772:AAF34tB4ohSuzQRIKy6Pfab_rKVI29l3KiE", 
              "required": true 
          }, 
          "BOT_TOKEN9": { 
              "description": "", 
-             "value": "6549700839:AAEK89gKabvucYQKKxFQk_mqOsWeXKCb5fU", 
+             "value": "8768812354:AAGz1nK3YdsLb9w2BCH_OLoDsjdgMjbnhpQ", 
              "required": true 
          }, 
          "BOT_TOKEN10": { 
              "description": "", 
-             "value": "6362734735:AAGQ8RSpzZB66V9_ttZAqAPctfBjIsETfbE", 
+             "value": "8663511437:AAENrw79WWcbhSWszjTFciNZo1rDqvyr4kE", 
              "required": true 
          }, 
          "SUDO": { 
