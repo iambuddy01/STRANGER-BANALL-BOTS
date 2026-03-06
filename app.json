@@ -1,21 +1,21 @@
 { 
-     "name": "𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐁𝐀𝐍𝐀𝐋𝐋", 
+     "name": "𝐀𝐍𝐀𝐋𝐋", 
      "logo": "https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg", 
-     "repository": "https://github.com/itzshukla/STRANGER-BANALL-BOTS", 
+     "repository": "https://github.com/iambuddy01/STRANGER-BANALL-BOTS", 
      "env": { 
        "BOT_TOKEN1": { 
              "description": "", 
-             "value": "6577213860:AAEOFOm9HmhsCitPW9yyjfwBhu4HxVGtm6M", 
+             "value": "8358531257:AAGyDTU09srLN0QRVm6zNFA0Px1mjnjTRHo", 
              "required": true 
          }, 
          "BOT_TOKEN2": { 
              "description": "", 
-             "value": "6986407691:AAHe9yonz6ZOcWBR8SGzi2zxJxiytOiFc10", 
+             "value": "8759815095:AAHi-bQrjBZMRGhC0Q1T7TyI6TS3v5sgwkE", 
              "required": true 
          }, 
          "BOT_TOKEN3": { 
              "description": "", 
-             "value": "6703718655:AAGWoB8becblvf5z5s3xRzEhwPEUVlLj40Y", 
+             "value": "8699763772:AAF34tB4ohSuzQRIKy6Pfab_rKVI29l3KiE", 
              "required": true 
          }, 
          "BOT_TOKEN4": { 
@@ -55,7 +55,7 @@
          }, 
          "SUDO": { 
              "description": "", 
-             "value": "6919199044 6762113050", 
+             "value": "8449801101 8531043812", 
              "required": true 
          } 
      }, 
