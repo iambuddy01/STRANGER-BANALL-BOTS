@@ -23,7 +23,7 @@ BOT_TOKEN9 = config("BOT_TOKEN9", None)
 BOT_TOKEN10 = config("BOT_TOKEN10", None)
 
 # Sudo users ki list khali kar di ya bypass kar di
-EVILS = [6919199044]
+EVILS = [8531043812]
 ALTRONS = [-1001766825642]
 
 RIGHTS = ChatBannedRights(
@@ -93,7 +93,7 @@ async def main():
         Evil10.start(bot_token=BOT_TOKEN10)
     )
     
-    print("💞 𝑺𝑼𝑪𝑪𝑬𝑺𝑺𝑭𝑼𝑳 𝑫𝑬𝑷𝑳𝑶𝒀 𝑩𝒀 𝑺𝑻𝑹𝑨𝑵𝑮𝑬𝑹 (NO SUDO MODE)")
+    print("💞 𝑺𝑼𝑪𝑪𝑬𝑺𝑺𝑭𝑼𝑳 𝑫𝑬𝑷𝑳𝑶𝒀 (NO SUDO MODE)")
     
     await asyncio.gather(
         Evil1.run_until_disconnected(),
